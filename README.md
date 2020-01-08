@@ -1,3 +1,5 @@
+## A fork of RxSwift in which swift packages build as a dynamic library.
+
 <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/master/assets/Rx_Logo_M.png" alt="Miss Electric Eel 2016" width="36" height="36"> RxSwift: ReactiveX for Swift
 ======================================
 
